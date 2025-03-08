@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; I am currently learning more about ML/DL.
-- 🎓 &nbsp; Studying Computer Science and Infrmation Engineering at Ming Chuan University.
+- 🎓 &nbsp; Studying Computer Science and Information Engineering at Ming Chuan University.
 
 ## 🤝🏻 &nbsp;Connect with Me
 
