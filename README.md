@@ -10,8 +10,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <!--[![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://furkangulsen.com/) -->
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%A6%B9%E8%B1%AA-%E9%99%B3-1271422a9/) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rRZ1OklwC6diCKt) [![Instagram](https://img.shields.io/badge/Instagram-f542a1?style=for-the-badge&logo=instagram)](https://www.instagram.com/kenny921208/?hl=EN) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkangulsen)
-
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%A6%B9%E8%B1%AA-%E9%99%B3-1271422a9/) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rRZ1OklwC6diCKt) [![Instagram](https://img.shields.io/badge/Instagram-f542a1?style=for-the-badge&logo=instagram)](https://www.instagram.com/kenny921208/?hl=EN)
 ### 🛠 &nbsp;Tech Stack
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
