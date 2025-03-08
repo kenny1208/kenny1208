@@ -9,11 +9,8 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cameron-thompson96"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kenny1208@gamil.com"><img src="https://img.shields.io/badge/-kenny1208@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/rRZ1OklwC6diCKt)
+<!--[![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://furkangulsen.com/) -->
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%A6%B9%E8%B1%AA-%E9%99%B3-1271422a9/) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rRZ1OklwC6diCKt) [![Instagram](https://img.shields.io/badge/Instagram-B22222?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kenny921208/?hl=EN) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkangulsen)
 
 ### 🛠 &nbsp;Tech Stack
 
