@@ -38,12 +38,5 @@
 - [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
 <!-- BLOG-POST-LIST:END -->
 
-## My Stats
 
-<p>
-<a href="https://github.com/kenny1208">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenny1208&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenny1208&theme=dark&layout=compact" />
-</a>
-</p>
 
