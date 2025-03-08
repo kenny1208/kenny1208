@@ -18,8 +18,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=r&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -40,8 +41,9 @@
 ## My Stats
 
 <p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
+<a href="https://github.com/kenny1208">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenny1208&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenny1208&theme=dark&layout=compact" />
 </a>
 </p>
+
