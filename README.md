@@ -10,7 +10,9 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <!--[![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://furkangulsen.com/) -->
+
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%A6%B9%E8%B1%AA-%E9%99%B3-1271422a9/) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rRZ1OklwC6diCKt) [![Instagram](https://img.shields.io/badge/Instagram-f542a1?style=for-the-badge&logo=instagram)](https://www.instagram.com/kenny921208/?hl=EN)
+
 ### 🛠 &nbsp;Tech Stack
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -27,12 +29,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Linux For Development?](https://dev.to/cdthomp1/linux-for-development-1dnp)
-- [Filament Hero : Update!](https://dev.to/cdthomp1/filament-hero-update-1fg3)
-- [What is your favorite database?](https://dev.to/cdthomp1/what-is-your-favorite-database-55om)
-- [My Hacktoberfest Repos](https://dev.to/cdthomp1/my-hacktoberfest-repos-2121)
-- [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
-<!-- BLOG-POST-LIST:END -->
+<!--- [Linux For Development?](https://dev.to/cdthomp1/linux-for-development-1dnp)-->
 
 
 
