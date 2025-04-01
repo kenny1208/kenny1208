@@ -28,9 +28,17 @@
 
 ## Latest Articles
 
-<!-- BLOG-POST-LIST:START -->
+[GAN_Transformer]([https://dev.to/cdthomp1/linux-for-development-1dnp](https://github.com/Journal-Conference-Progress-Tracker/GAN_Transformer))
 
-<!--- [Linux For Development?](https://dev.to/cdthomp1/linux-for-development-1dnp)-->
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/kenny1208">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
