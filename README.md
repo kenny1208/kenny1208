@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me
 
-- 🤔 &nbsp; I am currently learning more about ML/DL.
+- 📚 &nbsp; I am currently learning more about ML/DL and quant.
 - 🎓 &nbsp; Studying Computer Science and Infrmation Engineering at Ming Chuan University.
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -28,8 +28,8 @@
 
 ## Latest Articles
 
-[Enhancing NLI Dataset Generation through DeBERTa-Driven, Privacy-Aware Data Augmentation Techniques]([https://dev.to/cdthomp1/linux-for-development-1dnp](https://github.com/Journal-Conference-Progress-Tracker/GAN_Transformer))
-- Designing the DeBERTa-GAN model based on the DeBERTa transformer architecture to achieve privacy-preserving data generation methods
+- [Enhancing NLI Dataset Generation through DeBERTa-Driven, Privacy-Aware Data Augmentation Techniques]([https://dev.to/cdthomp1/linux-for-development-1dnp](https://github.com/Journal-Conference-Progress-Tracker/GAN_Transformer))
+-- Designing the DeBERTa-GAN model based on the DeBERTa transformer architecture to achieve privacy-preserving data generation methods
 
 
 ### ⚙️ &nbsp;GitHub Analytics
